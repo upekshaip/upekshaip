@@ -1,14 +1,17 @@
+<img align="right" alt="Coding" width="300" src="https://upekshaip.me/sources/img/upekshaip9-croped.png">
+### Hi there 👋
 
-<img align="right" alt="Coding" width="400" src="https://upekshaip.me/sources/img/upekshaip9-croped.png">
-<div align="left">
-  <h3>Hello, I'm Upeksha Indeewara</h3>
-  </div>
 - [My site](https://upekshaip.me)
 - [Google developer profile](https://g.dev/upekshaip)
 - [Linkedin](https://linkedin.com/in/upekshaip)
 - [Twitter](https://twitter.com/upekshaip)
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <div align="center">
   
