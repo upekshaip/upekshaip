@@ -1,17 +1,9 @@
 ### Hi there 👋
 
-- ```sh
-  upekshaip.me
-  ```
-- ```sh
-  https://g.dev/upekshaip
-  ```
-- ```sh
-  https://linkedin.com/in/upekshaip
-  ```
-- ```sh
-  https://twitter.com/upekshaip
-  ```
+[My site](https://upekshaip.me)
+[Google developer profile](https://g.dev/upekshaip)
+[Linkedin](https://linkedin.com/in/upekshaip)
+[Twitter](https://twitter.com/upekshaip)
 
 <div align="center">
   
