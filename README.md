@@ -1,17 +1,10 @@
-<img align="right" alt="Coding" width="300" src="https://upekshaip.me/sources/img/upekshaip9-croped.png">
+<img align="right" alt="Coding" width="260" src="https://upekshaip.me/sources/img/upekshaip9-croped.png">
 ### Hi there 👋
 
 - [My site](https://upekshaip.me)
 - [Google developer profile](https://g.dev/upekshaip)
 - [Linkedin](https://linkedin.com/in/upekshaip)
 - [Twitter](https://twitter.com/upekshaip)
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 <div align="center">
   
