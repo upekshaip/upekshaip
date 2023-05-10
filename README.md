@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div justify-content="center">
+<div align="center">
 [My site](https://upekshaip.me)
 [Google developer profile](https://g.dev/upekshaip)
 [Linkedin](https://linkedin.com/in/upekshaip)
