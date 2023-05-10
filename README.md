@@ -3,6 +3,15 @@
 - ```sh
   upekshaip.me
   ```
+- ```sh
+  [upekshaip.me](https://g.dev/upekshaip)
+  ```
+- ```sh
+  https://linkedin.com/in/upekshaip
+  ```
+- ```sh
+  https://twitter.com/upekshaip
+  ```
 
 <div align="center">
   
