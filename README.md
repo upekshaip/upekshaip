@@ -4,7 +4,7 @@
   upekshaip.me
   ```
 - ```sh
-  [upekshaip.me](https://g.dev/upekshaip)
+  https://g.dev/upekshaip
   ```
 - ```sh
   https://linkedin.com/in/upekshaip
