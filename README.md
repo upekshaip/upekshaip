@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **upekshaip/upekshaip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<div align="center">
+  
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=upekshaip&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D) ![upekshaip's GitHub stats](https://github-readme-stats.vercel.app/api?username=upekshaip&theme=chartreuse-dark&hide_border=true&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=upekshaip&layout=compact&hide_border=true&theme=chartreuse-dark)
+
+ </div>
+  
+<!-- Contribution Graph -->
+<img alt="upekshaip's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=upekshaip&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+
+
