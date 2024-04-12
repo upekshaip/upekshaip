@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="250" src="https://upekshaip.me/sources/img/upekshaip9-croped.png">
+<img align="right" alt="Coding" width="250" src="https://upekshaip.github.io/sources/img/upekshaip9-croped.png">
 <h3>Hi there 👋</h3>
 
 - [My site](https://upekshaip.me)
