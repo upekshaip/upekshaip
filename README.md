@@ -1,7 +1,7 @@
 <img align="right" alt="Coding" width="250" src="https://upekshaip.github.io/sources/img/upekshaip9-croped.png">
 <h3>Hi there 👋</h3>
 
-- [My site](https://upekshaip.me)
+- [My site](https://upekshaip.github.io)
 - [Google developer profile](https://g.dev/upekshaip)
 - [Linkedin](https://linkedin.com/in/upekshaip)
 - [Twitter](https://twitter.com/upekshaip)
