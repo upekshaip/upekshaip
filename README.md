@@ -12,6 +12,6 @@
   
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=upekshaip&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D) 
 ![upekshaip's GitHub stats](https://github-readme-stats.vercel.app/api?username=upekshaip&theme=chartreuse-dark&hide_border=true&show_icons=true)
-![upekshaip's Most Used Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=upekshaip&theme=chartreuse-dark&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true")
+![upekshaip's Most Used Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=upekshaip&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true")
  </div>
 
