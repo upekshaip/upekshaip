@@ -1,10 +1,12 @@
 <img align="right" alt="Coding" width="250" src="https://upekshaip.github.io/sources/img/upekshaip9-croped.png">
 <h3>Hi there 👋</h3>
 
-- [My site](https://upekshaip.github.io)
+- [My site](https://upekshaip.com)
 - [Google developer profile](https://g.dev/upekshaip)
 - [Linkedin](https://linkedin.com/in/upekshaip)
 - [Twitter](https://twitter.com/upekshaip)
+- [Buy me a coffee](https://www.buymeacoffee.com/upekshaip)
+
 
 <br>
 <h3>Stats</h3>
