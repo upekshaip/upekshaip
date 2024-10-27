@@ -18,115 +18,16 @@ Feel free to check out my work or get in touch:
 
 ## 🛠️ Technologies & Skills
 
-<table style="width: 100%">
-    <tr>
-        <td>
-        <div style="width: 100%; border: 1px solid #ddd; border-radius: 8px;">
-            <h3>Languages 🌐</h3>
-            <ul>
-                <li>JavaScript</li>
-                <li>TypeScript</li>
-                <li>Python</li>
-                <li>PHP</li>
-                <li>Java</li>
-                <li>C#</li>
-                <li>JSP</li>
-                <li>C++</li>
-                <li>C</li>
-            </ul>
-        </div>
-        </td>
-        <td>
-         <div style="width: 100%; border: 1px solid #ddd; border-radius: 8px;">
-            <h3>Frontend 🎨</h3>
-            <ul>
-                <li>React</li>
-                <li>Next.js</li>
-                <li>Tailwind CSS</li>
-                <li>Bootstrap</li>
-                <li>Qt</li>
-            </ul>
-            </div>
-        </td>
-        <td>
-         <div style="width: 100%; border: 1px solid #ddd; border-radius: 8px;">
-            <h3>Backend 🔧</h3>
-            <ul>
-                <li>Node.js</li>
-                <li>Express</li>
-                <li>Firebase</li>
-                <li>.NET Web API</li>
-                <li>Django</li>
-                <li>Flask</li>
-            </ul>
-            </div>
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 33%; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
-            <h3>Databases 🗄️</h3>
-            <ul>
-                <li>Firebase Realtime Database</li>
-                <li>MongoDB</li>
-                <li>MySQL</li>
-            </ul>
-        </td>
-        <td style="width: 33%; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
-            <h3>Tools & Platforms 🛠️</h3>
-            <ul>
-                <li>Git</li>
-                <li>Docker</li>
-                <li>Heroku</li>
-                <li>Vercel</li>
-                <li>Figma</li>
-                <li>AWS</li>
-                <li>Google Cloud Platform</li>
-                <li>Microsoft Azure</li>
-                <li>Postman</li>
-                <li>Insomnia</li>
-            </ul>
-        </td>
-        <td style="width: 33%; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
-            <h3>DevOps 🚀</h3>
-            <ul>
-                <li>Jenkins</li>
-                <li>Kubernetes</li>
-                <li>Terraform</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 33%; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
-            <h3>Testing 🧪</h3>
-            <ul>
-                <li>Jest</li>
-                <li>Mocha</li>
-                <li>Selenium</li>
-            </ul>
-        </td>
-        <td style="width: 33%; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
-            <h3>Other 🌟</h3>
-            <ul>
-                <li>GraphQL</li>
-                <li>REST APIs</li>
-                <li>WebSockets</li>
-            </ul>
-        </td>
-        <td style="width: 33%; padding: 10px; border: 1px solid #ddd; border-radius: 8px;"></td>
-    </tr>
-</table>
-
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=upekshaip&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)  
-<br>
-![upekshaip's GitHub stats](https://github-readme-stats.vercel.app/api?username=upekshaip&theme=chartreuse-dark&hide_border=true&show_icons=true)  
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=upekshaip&layout=compact&hide_border=true&theme=chartreuse-dark)
-
-</div>
+| **Category**             | **Technologies & Skills**                                                                          |
+| ------------------------ | -------------------------------------------------------------------------------------------------- |
+| **Languages 🌐**         | JavaScript, TypeScript, Python, PHP, Java, C#, JSP, C++, C                                         |
+| **Frontend 🎨**          | React, Next.js, Tailwind CSS, Bootstrap, Qt                                                        |
+| **Backend 🔧**           | Node.js, Express, Firebase, .NET Web API, Django, Flask                                            |
+| **Databases 🗄️**         | Firebase Realtime Database, MongoDB, MySQL                                                         |
+| **Tools & Platforms 🛠️** | Git, Docker, Heroku, Vercel, Figma, AWS, Google Cloud Platform, Microsoft Azure, Postman, Insomnia |
+| **DevOps 🚀**            | Jenkins, Kubernetes, Terraform                                                                     |
+| **Testing 🧪**           | Jest, Mocha, Selenium                                                                              |
+| **Other 🌟**             | GraphQL, REST APIs, WebSockets                                                                     |
 
 ---
 
@@ -217,6 +118,20 @@ Here are a few projects that I’m particularly proud of:
         </td>
     </tr>
 </table>
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+![GitHub Streak](http://gittb-readme-streak-stats.herokuapp.com?user=upekshaip&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)  
+<br>
+![upekshaip's GitHub stats](https://github-readme-stats.vercel.app/api?username=upekshaip&theme=chartreuse-dark&hide_border=true&show_icons=true)  
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=upekshaip&layout=compact&hide_border=true&theme=chartreuse-dark)
+
+</div>
 
 ---
 
