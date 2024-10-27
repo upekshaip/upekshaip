@@ -18,7 +18,7 @@ Feel free to check out my work or get in touch:
 
 ## 🛠️ Technologies & Skills
 
-<table>
+<table style="width: 100%">
     <tr>
         <td>
         <div style="width: 100%; border: 1px solid #ddd; border-radius: 8px;">
