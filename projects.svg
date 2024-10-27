@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="auto" viewBox="0 0 800 1100">
+    <style>
+        .project {
+            font-family: Arial, sans-serif;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            padding: 10px;
+            margin: 10px;
+            width: 300px;
+            transition: transform 0.2s, box-shadow 0.2s;
+            color: #fff; /* Changed text color to white */
+        }
+        .project img {
+            width: 100%;
+            border-radius: 8px;
+        }
+        .project h3 {
+            font-size: 18px;
+            margin: 10px 0;
+            color: #fff; /* Changed text color to white */
+        }
+        .project p {
+            font-size: 14px;
+            margin: 5px 0;
+            color: #ccc; /* Changed text color to light gray */
+        }
+        .project strong {
+            font-weight: bold;
+            color: #fff; /* Changed text color to white */
+        }
+        .project a {
+            text-decoration: none;
+            color: inherit;
+        }
+        .project:hover {
+            transform: scale(1.05);
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        @media (max-width: 800px) {
+            .project {
+                width: 100%;
+                margin: 10px 0;
+            }
+        }
+    </style>
+    <foreignObject x="20" y="60" width="760" height="940">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+            <div class="project">
+                <a href="https://upekshaip.com/projects/-O0t36gRpfJR1p8KB7vU">
+                    <img src="https://upekshaip.github.io/images/projects/telegram.jpg" alt="Telegram yt-dlp Cookie Bot"/>
+                </a>
+                <h3><a href="https://upekshaip.com/projects/-O0t36gRpfJR1p8KB7vU">Telegram yt-dlp Cookie Bot</a></h3>
+                <p>The Telegram yt-dlp Cookie Bot is a powerful Telegram bot designed to simplify the process of downloading videos from YouTube and other platforms directly to your Telegram account.</p>
+                <p><strong>Technologies:</strong> Python, Telegram API</p>
+            </div>
+            <div class="project">
+                <a href="https://upekshaip.com/projects/-O0t6eTMaihPM0HMs6qX">
+                    <img src="https://upekshaip.github.io/images/projects/naasa.png" alt="Naasa Educational Platform"/>
+                </a>
+                <h3><a href="https://upekshaip.com/projects/-O0t6eTMaihPM0HMs6qX">Naasa Educational Platform</a></h3>
+                <p>I launched the Naasa Educational Platform in 2020 at age 19, responding to the urgent need for accessible education during the COVID-19 pandemic.</p>
+                <p><strong>Technologies:</strong> React, Firebase, Node.js</p>
+            </div>
+            <div class="project">
+                <a href="https://upekshaip.com/projects/-O0tCBBQ4pF2uIZR8ilL">
+                    <img src="https://upekshaip.github.io/images/projects/ctf.jpg" alt="Corridor-Pix (CTF)"/>
+                </a>
+                <h3><a href="https://upekshaip.com/projects/-O0tCBBQ4pF2uIZR8ilL">Corridor-Pix (CTF)</a></h3>
+                <p>Corridor-Pix-CTF challenges participants with puzzles in a corridor and a black-and-white image, where they must uncover hidden flags.</p>
+                <p><strong>Technologies:</strong> JavaScript, HTML, CSS</p>
+            </div>
+            <div class="project">
+                <a href="https://upekshaip.com/projects/-O1CrbG0TT__Q9ST8gKI">
+                    <img src="https://upekshaip.github.io/images/projects/social_media_project/img5.png" alt="Light Weight Social Media Platform (Ready Steady Go)"/>
+                </a>
+                <h3><a href="https://upekshaip.com/projects/-O1CrbG0TT__Q9ST8gKI">Light Weight Social Media Platform (Ready Steady Go)</a></h3>
+                <p>Ready Steady Go: A dream-inspired social platform for vehicle enthusiasts, developed collaboratively by a dedicated team within two days and brought to life from a shared vision.</p>
+                <p><strong>Technologies:</strong> JavaScript, Node.js, MongoDB</p>
+            </div>
+            <div class="project">
+                <a href="https://upekshaip.com/projects/-O1DIKWwZyTd4Kxycf5V">
+                    <img src="https://upekshaip.github.io/images/projects/wristwise_project/checkout.png" alt="Wrist Wise: A Comprehensive E-commerce Platform for Wristwatches"/>
+                </a>
+                <h3><a href="https://upekshaip.com/projects/-O1DIKWwZyTd4Kxycf5V">Wrist Wise: A Comprehensive E-commerce Platform for Wristwatches</a></h3>
+                <p>Wrist Wise began as a fully functional wristwatch selling website developed for my SE102.3 (Web Application Development) module and was later rebuilt using Java and JSP for SE204.3 (Java Enterprise Application Development).</p>
+                <p><strong>Technologies:</strong> Java, JSP, MySQL</p>
+            </div>
+            <div class="project">
+                <a href="https://upekshaip.com/projects/-O1DZG3gz-FMtINi3Xin">
+                    <img src="https://upekshaip.github.io/images/projects/geoeco_project/img1.png" alt="Geoeco (Pvt) Ltd Website Development"/>
+                </a>
+                <h3><a href="https://upekshaip.com/projects/-O1DZG3gz-FMtINi3Xin">Geoeco (Pvt) Ltd Website Development</a></h3>
+                <p>I developed the official website for Geoeco (Pvt) Ltd, geoeco.org, showcasing their environmental consultancy services.</p>
+                <p><strong>Technologies:</strong> HTML, CSS, JavaScript</p>
+            </div>
+            <div class="project">
+                <a href="https://upekshaip.com/projects/-O2cwkUlS_BXprSiBjXD">
+                    <img src="https://upekshaip.github.io/images/projects/classapp/img8.png" alt="Comprehensive Management System for College Of Alexandriana, Nittambuwa"/>
+                </a>
+                <h3><a href="https://upekshaip.com/projects/-O2cwkUlS_BXprSiBjXD">Comprehensive Management System for College Of Alexandriana, Nittambuwa</a></h3>
+                <p>I developed a comprehensive system for College Of Alexandriana, Nittambuwa, to streamline registration, payments, class management, and reporting. This user-friendly solution enhances efficiency and transparency, effectively managing students, teachers, and classes.</p>
+                <p><strong>Technologies:</strong> PHP, MySQL, Bootstrap</p>
+            </div>
+        </div>
+    </foreignObject>
+</svg>
