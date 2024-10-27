@@ -18,7 +18,17 @@ Feel free to check out my work or get in touch:
 
 ## 🛠️ Technologies & Skills
 
-<table width="100%">
+<style>
+table:nth-of-type(1) {
+    display:table;
+    width:100%;
+}
+table:nth-of-type(1) th:nth-of-type(2) {
+    width:10%;
+}
+</style>
+
+<table>
     <tr>
         <td style="width: 33%; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
             <h3>Languages 🌐</h3>
