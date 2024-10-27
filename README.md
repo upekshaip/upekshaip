@@ -18,19 +18,10 @@ Feel free to check out my work or get in touch:
 
 ## 🛠️ Technologies & Skills
 
-<style>
-table:nth-of-type(1) {
-    display:table;
-    width:100%;
-}
-table:nth-of-type(1) th:nth-of-type(2) {
-    width:10%;
-}
-</style>
-
 <table>
     <tr>
-        <td style="width: 33%; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
+        <td>
+        <div style="width: 100%; border: 1px solid #ddd; border-radius: 8px;">
             <h3>Languages 🌐</h3>
             <ul>
                 <li>JavaScript</li>
@@ -43,8 +34,10 @@ table:nth-of-type(1) th:nth-of-type(2) {
                 <li>C++</li>
                 <li>C</li>
             </ul>
+        </div>
         </td>
-        <td style="width: 33%; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
+        <td>
+         <div style="width: 100%; border: 1px solid #ddd; border-radius: 8px;">
             <h3>Frontend 🎨</h3>
             <ul>
                 <li>React</li>
@@ -53,8 +46,10 @@ table:nth-of-type(1) th:nth-of-type(2) {
                 <li>Bootstrap</li>
                 <li>Qt</li>
             </ul>
+            </div>
         </td>
-        <td style="width: 33%; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
+        <td>
+         <div style="width: 100%; border: 1px solid #ddd; border-radius: 8px;">
             <h3>Backend 🔧</h3>
             <ul>
                 <li>Node.js</li>
@@ -64,6 +59,7 @@ table:nth-of-type(1) th:nth-of-type(2) {
                 <li>Django</li>
                 <li>Flask</li>
             </ul>
+            </div>
         </td>
     </tr>
     <tr>
