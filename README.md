@@ -4,7 +4,9 @@
 
 Welcome to my GitHub profile! I'm a passionate software developer, dedicated to creating efficient, scalable, and user-friendly applications. Whether it's building full-stack web applications, contributing to open-source projects, or exploring the latest technologies, I’m always excited to solve real-world problems with code.
 
-<img src="project.svg" alt="Test SVG" style="width: 100%; border-radius: 8px;">
+<!-- ![Test SVG](project.svg) -->
+
+![Test SVG](project.svg)
 
 ## 🔗 Connect with Me
 
