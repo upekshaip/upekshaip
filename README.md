@@ -1,5 +1,5 @@
 <img align="center" alt="banner" src="https://upekshaip.github.io/images/banner.png">
-<br>
+
 # Hi there, I'm Upeksha Indeewara 👋
 
 Welcome to my GitHub profile! I'm a passionate software developer, dedicated to creating efficient, scalable, and user-friendly applications. Whether it's building full-stack web applications, contributing to open-source projects, or exploring the latest technologies, I’m always excited to solve real-world problems with code.
