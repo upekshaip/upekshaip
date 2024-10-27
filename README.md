@@ -4,10 +4,6 @@
 
 Welcome to my GitHub profile! I'm a passionate software developer, dedicated to creating efficient, scalable, and user-friendly applications. Whether it's building full-stack web applications, contributing to open-source projects, or exploring the latest technologies, I’m always excited to solve real-world problems with code.
 
-<!-- ![Test SVG](project.svg) -->
-
-![Test SVG](project.svg)
-
 ## 🔗 Connect with Me
 
 Feel free to check out my work or get in touch:
@@ -22,101 +18,97 @@ Feel free to check out my work or get in touch:
 
 ## 🛠️ Technologies & Skills
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-
-<div style="flex: 1; min-width: 300px; margin: 10px; border: 1px solid #ddd; border-radius: 8px; padding: 10px;">
-    <h3>Languages 🌐</h3>
-    <ul>
-        <li>JavaScript</li>
-        <li>TypeScript</li>
-        <li>Python</li>
-        <li>PHP</li>
-        <li>Java</li>
-        <li>C#</li>
-        <li>JSP</li>
-        <li>C++</li>
-        <li>C</li>
-    </ul>
-</div>
-
-<div style="flex: 1; min-width: 300px; margin: 10px; border: 1px solid #ddd; border-radius: 8px; padding: 10px;">
-    <h3>Frontend 🎨</h3>
-    <ul>
-        <li>React</li>
-        <li>Next.js</li>
-        <li>Tailwind CSS</li>
-        <li>Bootstrap</li>
-        <li>Qt</li>
-    </ul>
-</div>
-
-<div style="flex: 1; min-width: 300px; margin: 10px; border: 1px solid #ddd; border-radius: 8px; padding: 10px;">
-    <h3>Backend 🔧</h3>
-    <ul>
-        <li>Node.js</li>
-        <li>Express</li>
-        <li>Firebase</li>
-        <li>.NET Web API</li>
-        <li>Django</li>
-        <li>Flask</li>
-    </ul>
-</div>
-
-<div style="flex: 1; min-width: 300px; margin: 10px; border: 1px solid #ddd; border-radius: 8px; padding: 10px;">
-    <h3>Databases 🗄️</h3>
-    <ul>
-        <li>Firebase Realtime Database</li>
-        <li>MongoDB</li>
-        <li>MySQL</li>
-    </ul>
-</div>
-
-<div style="flex: 1; min-width: 300px; margin: 10px; border: 1px solid #ddd; border-radius: 8px; padding: 10px;">
-    <h3>Tools & Platforms 🛠️</h3>
-    <ul>
-        <li>Git</li>
-        <li>Docker</li>
-        <li>Heroku</li>
-        <li>Vercel</li>
-        <li>Figma</li>
-        <li>AWS</li>
-        <li>Google Cloud Platform</li>
-        <li>Microsoft Azure</li>
-        <li>Postman</li>
-        <li>Insomnia</li>
-    </ul>
-</div>
-
-<div style="flex: 1; min-width: 300px; margin: 10px; border: 1px solid #ddd; border-radius: 8px; padding: 10px;">
-    <h3>DevOps 🚀</h3>
-    <ul>
-        <li>Jenkins</li>
-        <li>Kubernetes</li>
-        <li>Terraform</li>
-    </ul>
-</div>
-
-<div style="flex: 1; min-width: 300px; margin: 10px; border: 1px solid #ddd; border-radius: 8px; padding: 10px;">
-    <h3>Testing 🧪</h3>
-    <ul>
-        <li>Jest</li>
-        <li>Mocha</li>
-        <li>Selenium</li>
-    </ul>
-</div>
-
-<div style="flex: 1; min-width: 300px; margin: 10px; border: 1px solid #ddd; border-radius: 8px; padding: 10px;">
-    <h3>Other 🌟</h3>
-    <ul>
-        <li>GraphQL</li>
-        <li>REST APIs</li>
-        <li>WebSockets</li>
-    </ul>
-</div>
-
-</div>
-
----
+<table width="100%">
+    <tr>
+        <td style="width: 33%; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
+            <h3>Languages 🌐</h3>
+            <ul>
+                <li>JavaScript</li>
+                <li>TypeScript</li>
+                <li>Python</li>
+                <li>PHP</li>
+                <li>Java</li>
+                <li>C#</li>
+                <li>JSP</li>
+                <li>C++</li>
+                <li>C</li>
+            </ul>
+        </td>
+        <td style="width: 33%; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
+            <h3>Frontend 🎨</h3>
+            <ul>
+                <li>React</li>
+                <li>Next.js</li>
+                <li>Tailwind CSS</li>
+                <li>Bootstrap</li>
+                <li>Qt</li>
+            </ul>
+        </td>
+        <td style="width: 33%; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
+            <h3>Backend 🔧</h3>
+            <ul>
+                <li>Node.js</li>
+                <li>Express</li>
+                <li>Firebase</li>
+                <li>.NET Web API</li>
+                <li>Django</li>
+                <li>Flask</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 33%; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
+            <h3>Databases 🗄️</h3>
+            <ul>
+                <li>Firebase Realtime Database</li>
+                <li>MongoDB</li>
+                <li>MySQL</li>
+            </ul>
+        </td>
+        <td style="width: 33%; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
+            <h3>Tools & Platforms 🛠️</h3>
+            <ul>
+                <li>Git</li>
+                <li>Docker</li>
+                <li>Heroku</li>
+                <li>Vercel</li>
+                <li>Figma</li>
+                <li>AWS</li>
+                <li>Google Cloud Platform</li>
+                <li>Microsoft Azure</li>
+                <li>Postman</li>
+                <li>Insomnia</li>
+            </ul>
+        </td>
+        <td style="width: 33%; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
+            <h3>DevOps 🚀</h3>
+            <ul>
+                <li>Jenkins</li>
+                <li>Kubernetes</li>
+                <li>Terraform</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 33%; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
+            <h3>Testing 🧪</h3>
+            <ul>
+                <li>Jest</li>
+                <li>Mocha</li>
+                <li>Selenium</li>
+            </ul>
+        </td>
+        <td style="width: 33%; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
+            <h3>Other 🌟</h3>
+            <ul>
+                <li>GraphQL</li>
+                <li>REST APIs</li>
+                <li>WebSockets</li>
+            </ul>
+        </td>
+        <td style="width: 33%; padding: 10px; border: 1px solid #ddd; border-radius: 8px;"></td>
+    </tr>
+</table>
 
 ## 📊 GitHub Stats & Activity
 
