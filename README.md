@@ -64,5 +64,5 @@ When I’m not coding, you’ll find me sketching, exploring the outdoors, or di
 If you enjoy my work, you can support me by buying me a coffee! Your support helps me continue creating and contributing to amazing projects.
 
 <a href="https://www.buymeacoffee.com/upekshaip" target="_blank">
-  <img src="https://upekshaip.com/assets/bmc-C0VD0s9h.svg" alt="Buy me a coffee" width="150" style="border-radius: 8px;">
+  <img src="https://upekshaip.github.io/images/bmc.svg" alt="Buy me a coffee" width="150" style="border-radius: 8px;">
 </a>
