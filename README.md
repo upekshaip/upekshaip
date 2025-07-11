@@ -1,4 +1,4 @@
-<img align="center" alt="banner" src="img/white_banner.png">
+<img align="center" alt="banner" src="img/upekshaip_banner_long.png">
 
 # Hi there, I'm Upeksha Indeewara 👋
 
