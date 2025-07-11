@@ -1,4 +1,4 @@
-<img align="center" alt="banner" src="https://upekshaip.github.io/images/white_banner.png">
+<img align="center" alt="banner" src="img/white_banner.png">
 
 # Hi there, I'm Upeksha Indeewara 👋
 
